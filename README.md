@@ -1,6 +1,8 @@
 # SIMPLE HTML WEBSITES
 Creating simple 3 page websites from mockups with HTML
 
+This project was part of the front-end programming fundamentals cirriculum at a code academy program in Raleigh, NC. 
+
 ## ASSIGNMENT 
 Convert the provided text into valid HTML pages. 
 Evaluate the text files and review the screenshots of all three pages. 
