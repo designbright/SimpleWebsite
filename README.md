@@ -7,6 +7,9 @@ Evaluate the text files and review the screenshots of all three pages.
 Determine how to markup the elements to create a valid HTML document.
 Link the three pages together by navigation 
 
+## View my final project here
+https://designbright.github.io/SimpleWebsite/
+
 ## Resources
 The resources folder contains files designed to help you complete the activity. This will include screen shots of the completed HTML and files containing the text.
 
